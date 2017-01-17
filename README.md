@@ -2,7 +2,7 @@
 
 A PipBoy player realised only in CSS and JavaScript
 
-![](http://www.giphy.com/gifs/l3q2SJyVnAhICpObS)
+![](http://i.giphy.com/26xBzTXI2J1dIEO6A.gif)
 
 ### Features
 
